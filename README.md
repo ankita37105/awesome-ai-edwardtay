@@ -103,7 +103,7 @@
 | Tool | Stars | Description |
 |------|-------|-------------|
 | [OpenRouter](https://openrouter.ai/) | - | Unified API for 100+ LLMs from multiple providers with transparent pricing comparison. |
-| [LiteLLM](https://github.com/BerriAI/litellm) | 58k | Proxy/gateway providing a unified API to 100+ LLMs with load balancing, fallbacks, and spend tracking. |
+| [LiteLLM](https://github.com/BerriAI/litellm) | 59k | Proxy/gateway providing a unified API to 100+ LLMs with load balancing, fallbacks, and spend tracking. |
 | [Martian](https://withmartian.com/) | - | AI-powered router that automatically selects the best model for each request using Model Mapping. |
 | [Portkey](https://portkey.ai/) | - | Enterprise gateway with load balancing, caching, fallbacks, and observability. |
 | [Helicone](https://www.helicone.ai/) | - | Rust-based gateway with load balancing, native observability, and cost tracking. |
@@ -612,7 +612,7 @@ Anthropic's open standard (donated to Linux Foundation AAIF) for connecting AI m
 |------|-------|-------------|
 | [Ollama](https://ollama.com/) | - | Run LLMs locally with a single command; wide model support with easy management. |
 | [LM Studio](https://lmstudio.ai/) | - | Desktop app for running LLMs locally with Vulkan GPU offloading and model discovery. |
-| [llama.cpp](https://github.com/ggerganov/llama.cpp) | 127k | C/C++ inference engine optimized for CPU-only inference with extensive quantization. |
+| [llama.cpp](https://github.com/ggerganov/llama.cpp) | 128k | C/C++ inference engine optimized for CPU-only inference with extensive quantization. |
 | [vLLM](https://vllm.ai/) | - | High-throughput serving with PagedAttention and continuous batching. |
 | [NVIDIA TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM) | 15k | Inference runtime and optimization toolkit for large language models on NVIDIA GPUs. |
 | [MLX](https://github.com/ml-explore/mlx) | 28k | Apple's array and machine-learning framework optimized for Apple silicon. |
@@ -673,7 +673,7 @@ Anthropic's open standard (donated to Linux Foundation AAIF) for connecting AI m
 | Tool | Stars | Description |
 |------|-------|-------------|
 | [Firecrawl](https://www.firecrawl.dev/) | - | Scrapes, crawls, and extracts structured data into LLM-ready formats. |
-| [Crawl4AI](https://github.com/unclecode/crawl4ai) | 82k | AI-ready web crawler generating clean Markdown with local LLM support. |
+| [Crawl4AI](https://github.com/unclecode/crawl4ai) | 83k | AI-ready web crawler generating clean Markdown with local LLM support. |
 | [Spider](https://spider.cloud/) | - | Fast web scraping designed for AI with structured data extraction. |
 | [Jina Reader](https://jina.ai/reader/) | - | Converts any URL into LLM-friendly text. |
 | [ScrapeGraphAI](https://scrapegraphai.com/) | - | Scraping library using LLMs to create pipelines from natural language. |
@@ -725,8 +725,8 @@ Anthropic's open standard (donated to Linux Foundation AAIF) for connecting AI m
 | [OpenAI Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering) | - | Strategies for getting better results from LLMs. |
 | [Anthropic Prompt Engineering Tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 38k | Interactive tutorial for effective prompt design with Claude. |
 | [DAIR.AI Prompt Engineering Guide](https://www.promptingguide.ai/) | - | Community-driven guide covering techniques and examples for all skill levels. |
-| [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | 119k | Free 21-lesson course covering generative AI fundamentals with code examples. |
-| [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 74k | Free 12-lesson course for getting started building AI agents. |
+| [Microsoft Generative AI for Beginners](https://github.com/microsoft/generative-ai-for-beginners) | 120k | Free 21-lesson course covering generative AI fundamentals with code examples. |
+| [Microsoft AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners) | 75k | Free 12-lesson course for getting started building AI agents. |
 
 ### Courses
 
@@ -821,7 +821,7 @@ Anthropic's open standard (donated to Linux Foundation AAIF) for connecting AI m
 | List | Stars | Description |
 |------|-------|-------------|
 | [awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 170k | Curated ChatGPT prompts for creative and effective use. |
-| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 136k | LLM app examples with code. |
+| [awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 138k | LLM app examples with code. |
 | [awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) | 13k | Generative AI tools and resources. |
 | [awesome-langchain](https://github.com/kyrolabs/awesome-langchain) | 10k | Tools and projects using LangChain. |
 | [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | 95k | Community-curated MCP server collection. |
